@@ -1,0 +1,42 @@
+User-agent: *
+Disallow: /cache/
+Disallow: /ark/
+Disallow: /js/
+Disallow: /ec/
+Disallow: /WEB-INF/
+Disallow: /errors/
+Disallow: /ebrother/
+Disallow: /20070507_younggirl/
+Disallow: /Patrol/
+Disallow: /dpt/
+Disallow: /test/
+Disallow: /w3c/
+Disallow: /admin/
+Disallow: /acecounter/
+Disallow: /popup/
+Disallow: /pki/
+Disallow: /partner/
+Disallow: /common/
+Disallow: /webplus/
+Disallow: /sk/
+Disallow: /marketing/
+Disallow: /2006/
+Disallow: /ktcard/
+Disallow: /signkorea_cert/
+Disallow: /mariner/
+Disallow: /focus/
+Disallow: /Test/
+Disallow: /backup/
+Disallow: /renewal/
+Disallow: /ready/
+Disallow: /ClassTemp/
+Disallow: /mem/
+Disallow: /beslib/
+Disallow: /홈피 수정/
+Disallow: /홈피(초안)
+Disallow: /THANEVE (2).zip
+Disallow: /TEST.html
+
+
+User-agent: Slurp
+Disallow: /
